@@ -15,6 +15,12 @@ import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.remote.MobilePlatform;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
+/**
+ * @author  Mustafa Burak Nayman
+ * @version 1.0
+ * @since   2021-07-25
+ */
+
 public class BaseTest {
     protected static AppiumDriver<MobileElement> appiumDriver;
 
