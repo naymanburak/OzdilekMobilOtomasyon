@@ -9,6 +9,11 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+/**
+ * @author  Mustafa Burak Nayman
+ * @version 1.0
+ * @since   2021-07-25
+ */
 
 public class BasePage extends BaseTest{
 
