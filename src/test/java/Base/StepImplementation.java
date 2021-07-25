@@ -3,6 +3,12 @@ package Base;
 import com.thoughtworks.gauge.Step;
 import static Constants.Constants.*;
 
+/**
+ * @author  Mustafa Burak Nayman
+ * @version 1.0
+ * @since   2021-07-25
+ */
+
 
 public class StepImplementation extends BasePage{
 
